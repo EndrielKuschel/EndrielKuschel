@@ -50,6 +50,8 @@ I am currently looking to specialize in the field of cloud computing, studying t
 ## 🔧 Ferramentas / Tools
 
 <div style = "display: inline_block">
+    <img align = "center" alt = "azure" src = "https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"> 
+    <img align = "center" alt = "aws" src = "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> 
     <img align = "center" alt = "visualstudiocode" src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     <img align = "center" alt = "eclpise" src = "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 </div> </br>
