@@ -12,10 +12,10 @@
            
 #### Olá, seja bem vindo! 🖐
 
-Me chamo Endriel, tenho 19 anos e sou um universitário no curso de Sistemas de Informação na Universidade do Sul de Santa Catarina.
+Me chamo Endriel, tenho 20 anos e sou um universitário no curso de Sistemas de Informação na Universidade do Sul de Santa Catarina.
 Estou me especializando cada dia mais nesse mundo da programação e da tecnologia, buscando me desenvolver cada vez mais nesta área que considero tão promissora.
 
-Atualmente, estou estudando e tenho experiência no front-end com desenvolvimento web, mais especificamente com JavaScript, HTML5 e CSS.
+Atualmente, estou buscando me especializar na área de computação em nuvem, estudando por meio do AWS e do Microsoft Azure. Possuo conhecimento básico com linguagens de programação como JavaScript e Java. Além disso, tenho conhecimentos sobre Banco de Dados e MySQL, além de montagem e manutenção de hardware.
 
 </br>
 
@@ -23,10 +23,10 @@ Atualmente, estou estudando e tenho experiência no front-end com desenvolviment
 
 #### Hello, be welcome! 🖐
 
-My name is Endriel, I am 19 years old and I am a university student in the Information Systems course at the Universidade do Sul de Santa Catarina.
+My name is Endriel, I am 20 years old and I am a university student in the Information Systems course at the Universidade do Sul de Santa Catarina.
 I am getting more and more specialized in this world of programming and technology, seeking to develop myself more and more in this area that I consider so promising.
 
-Currently, I am studying and have experience with web development, more specifically with JavaScript, HTML5 and CSS.
+I am currently looking to specialize in the field of cloud computing, studying through AWS and Microsoft Azure. I have basic knowledge of programming languages such as JavaScript and Java. In addition, I have knowledge about Database and MySQL, as well as assembly and maintenance of hardware.
 
 ## 💾 Status / Stats
 
