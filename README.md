@@ -4,7 +4,6 @@
 
 [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/endrielkuschel/)
 [![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/endrielkuschel/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/endrielkuschel)
 
 ## 📌 Sobre mim / About me
 
@@ -15,7 +14,11 @@
 Me chamo Endriel, tenho 20 anos e sou um universitário no curso de Sistemas de Informação na Universidade do Sul de Santa Catarina.
 Estou me especializando cada dia mais nesse mundo da programação e da tecnologia, buscando me desenvolver cada vez mais nesta área que considero tão promissora.
 
-Atualmente, estou buscando me especializar na área de computação em nuvem, estudando por meio do AWS e do Microsoft Azure. Possuo conhecimento básico com linguagens de programação como JavaScript e Java. Além disso, tenho conhecimentos sobre Banco de Dados e MySQL, além de montagem e manutenção de hardware.
+Atualmente, estou buscando me especializar na área de Front End, ganhando cada vez mais experiência com JavaScript, HTML e CSS.
+
+Também possuo conhecimento na área de computação em nuvem, por meio do Microsoft Azure e Amazon AWS. Além disso, tenho conhecimentos em Banco de Dados e MySQL.
+
+Me orgulho em fazer parte do programa de Estudantes Embaixadores da Microsoft, comunidade essa que me me dá a oportunidade de compartilhar e adquirir novos conhecimentos junto dos demais Ambassadors!
 
 </br>
 
@@ -26,7 +29,11 @@ Atualmente, estou buscando me especializar na área de computação em nuvem, es
 My name is Endriel, I am 20 years old and I am a university student in the Information Systems course at the Universidade do Sul de Santa Catarina.
 I am getting more and more specialized in this world of programming and technology, seeking to develop myself more and more in this area that I consider so promising.
 
-I am currently looking to specialize in the field of cloud computing, studying through AWS and Microsoft Azure. I have basic knowledge of programming languages such as JavaScript and Java. In addition, I have knowledge about Database and MySQL, as well as assembly and maintenance of hardware.
+Currently, I'm looking to specialize in the Front End area, gaining more and more experience with JavaScript, HTML and CSS.
+
+I also have knowledge in the area of ​​cloud computing, through Microsoft Azure and Amazon AWS. In addition, I have knowledge in Database and MySQL.
+
+I am proud to be part of the Microsoft Ambassadors program, a community that gives me the opportunity to share and acquire new knowledge with other Ambassadors!
 
 ## 💾 Status / Stats
 
