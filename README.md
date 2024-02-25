@@ -14,7 +14,7 @@
 Me chamo Endriel, tenho 20 anos e sou um universitário no curso de Sistemas de Informação na Universidade do Sul de Santa Catarina.
 Estou me especializando cada dia mais nesse mundo da programação e da tecnologia, buscando me desenvolver cada vez mais nesta área que considero tão promissora.
 
-Atualmente, estou buscando ampliar meus conhecimentos em diversas tecnologias, como JavaScript, HTML, CSS e Python.
+Atualmente, estou buscando ampliar meus conhecimentos no desenvolvimento front-end, por meio de JavaScript, HTML e CSS.
 
 Também possuo conhecimento na área de computação em nuvem, por meio do Microsoft Azure e Amazon AWS. Além disso, tenho conhecimentos em Banco de Dados, PowerBI e Power Automate.
 
@@ -29,7 +29,7 @@ Me orgulho em fazer parte do programa de Estudantes Embaixadores da Microsoft, c
 My name is Endriel, I am 20 years old and I am a university student in the Information Systems course at the Universidade do Sul de Santa Catarina.
 I am getting more and more specialized in this world of programming and technology, seeking to develop myself more and more in this area that I consider so promising.
 
-Currently, I am looking to expand my knowledge in various technologies, such as JavaScript, HTML, CSS and Python.
+Currently, I am looking to expand my knowledge in front-end development, through JavaScript, HTML and CSS.
 
 I also have knowledge in the area of ​​cloud computing, through Microsoft Azure and Amazon AWS. Additionally, I have knowledge in Databases, PowerBI and Power Automate.
 
@@ -51,7 +51,6 @@ I am proud to be part of the Microsoft Ambassadors program, a community that giv
     <img align = "center" alt = "javascript" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align = "center" alt = "html5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align = "center" alt = "css3" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align = "center" alt = "java" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div> </br>
 
 ## 🔧 Ferramentas / Tools
@@ -60,5 +59,4 @@ I am proud to be part of the Microsoft Ambassadors program, a community that giv
     <img align = "center" alt = "azure" src = "https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"> 
     <img align = "center" alt = "aws" src = "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> 
     <img align = "center" alt = "visualstudiocode" src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    <img align = "center" alt = "eclpise" src = "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 </div> </br>
