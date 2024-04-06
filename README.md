@@ -11,12 +11,12 @@
            
 #### Olá, seja bem vindo! 🖐
 
-Me chamo Endriel, tenho 20 anos e sou um universitário no curso de Sistemas de Informação na Universidade do Sul de Santa Catarina.
+Me chamo Endriel, tenho 21 anos e sou um universitário no curso de Sistemas de Informação na Universidade do Sul de Santa Catarina.
 Estou me especializando cada dia mais nesse mundo da programação e da tecnologia, buscando me desenvolver cada vez mais nesta área que considero tão promissora.
 
 Atualmente, estou buscando ampliar meus conhecimentos na área de Business Intelligence (BI) e Data Analytics. Posteriormente pretendo me aprofundar ainda mais em Data Science, adquirindo novos conhecimentos com Big Data e Machine Learning.
 
-Também possuo conhecimento na área de computação em nuvem, por meio do Microsoft Azure e Amazon AWS. Além disso, tenho conhecimentos em Banco de Dados, PowerBI e Power Automate.
+Também possuo conhecimento na área de computação em nuvem, por meio do Microsoft Azure e Amazon AWS. Além disso, tenho conhecimentos em Banco de Dados, Power BI e Power Automate.
 
 Me orgulho em fazer parte do programa de Estudantes Embaixadores da Microsoft, comunidade essa que me me dá a oportunidade de compartilhar e adquirir novos conhecimentos junto dos demais Ambassadors!
 
@@ -26,12 +26,12 @@ Me orgulho em fazer parte do programa de Estudantes Embaixadores da Microsoft, c
 
 #### Hello, be welcome! 🖐
 
-My name is Endriel, I am 20 years old and I am a university student in the Information Systems course at the Universidade do Sul de Santa Catarina.
+My name is Endriel, I am 21 years old and I am a university student in the Information Systems course at the Universidade do Sul de Santa Catarina.
 I am getting more and more specialized in this world of programming and technology, seeking to develop myself more and more in this area that I consider so promising.
 
 Currently, I am looking to expand my knowledge in the area of ​​Business Intelligence (BI) and Data Analytics. Later I intend to delve even deeper into Data Science, acquiring new knowledge with Big Data and Machine Learning.
 
-I also have knowledge in the area of ​​cloud computing, through Microsoft Azure and Amazon AWS. Additionally, I have knowledge in Databases, PowerBI and Power Automate.
+I also have knowledge in the area of ​​cloud computing, through Microsoft Azure and Amazon AWS. Additionally, I have knowledge in Databases, Power BI and Power Automate.
 
 I am proud to be part of the Microsoft Ambassadors program, a community that gives me the opportunity to share and acquire new knowledge with other Ambassadors!
 
